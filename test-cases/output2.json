@@ -1,0 +1,22 @@
+[
+  {
+    "type": "T_IDENT",
+    "value": "i1"
+  },
+  {
+    "type": "T_IDENT",
+    "value": "test"
+  },
+  {
+    "type": "T_IDENT",
+    "value": "test3"
+  },
+  {
+    "type": "T_IDENT",
+    "value": "i999"
+  },
+  {
+    "type": "T_IDENT",
+    "value": "fileName"
+  }
+]

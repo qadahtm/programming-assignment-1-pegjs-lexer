@@ -1,0 +1,26 @@
+[
+  {
+    "type": "T_RELOP",
+    "value": "GE"
+  },
+  {
+    "type": "T_RELOP",
+    "value": "GT"
+  },
+  {
+    "type": "T_RELOP",
+    "value": "LT"
+  },
+  {
+    "type": "T_RELOP",
+    "value": "EQ"
+  },
+  {
+    "type": "T_RELOP",
+    "value": "LT"
+  },
+  {
+    "type": "T_RELOP",
+    "value": "GT"
+  }
+]

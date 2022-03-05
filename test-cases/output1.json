@@ -1,0 +1,26 @@
+[
+  {
+    "type": "T_NUMBER",
+    "value": "1"
+  },
+  {
+    "type": "T_NUMBER",
+    "value": "2"
+  },
+  {
+    "type": "T_NUMBER",
+    "value": "20"
+  },
+  {
+    "type": "T_NUMBER",
+    "value": "32.1"
+  },
+  {
+    "type": "T_NUMBER",
+    "value": "25E-9"
+  },
+  {
+    "type": "T_NUMBER",
+    "value": "10.23E+10"
+  }
+]

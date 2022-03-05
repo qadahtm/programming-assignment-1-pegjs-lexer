@@ -1,0 +1,23 @@
+[
+  {
+    "type": "T_IF"
+  },
+  {
+    "type": "T_IF"
+  },
+  {
+    "type": "T_THEN"
+  },
+  {
+    "type": "T_ELSE"
+  },
+  {
+    "type": "T_ELSE"
+  },
+  {
+    "type": "T_THEN"
+  },
+  {
+    "type": "T_IF"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "type": "T_IDENT",
+    "value": "i1"
+  },
+  {
+    "type": "T_RELOP",
+    "value": "EQ"
+  },
+  {
+    "type": "T_NUMBER",
+    "value": "20"
+  },
+  {
+    "type": "T_IF"
+  },
+  {
+    "type": "T_IDENT",
+    "value": "i1"
+  },
+  {
+    "type": "T_RELOP",
+    "value": "LT"
+  },
+  {
+    "type": "T_NUMBER",
+    "value": "4"
+  },
+  {
+    "type": "T_THEN"
+  },
+  {
+    "type": "T_IDENT",
+    "value": "i2"
+  },
+  {
+    "type": "T_RELOP",
+    "value": "EQ"
+  },
+  {
+    "type": "T_NUMBER",
+    "value": "9E+7"
+  },
+  {
+    "type": "T_ELSE"
+  },
+  {
+    "type": "T_IDENT",
+    "value": "i5"
+  },
+  {
+    "type": "T_RELOP",
+    "value": "EQ"
+  },
+  {
+    "type": "T_NUMBER",
+    "value": "10.1E-5"
+  }
+]
