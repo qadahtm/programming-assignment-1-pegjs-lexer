@@ -17,10 +17,6 @@
   },
   {
     "type": "T_RELOP",
-    "value": "LT"
-  },
-  {
-    "type": "T_RELOP",
-    "value": "GT"
+    "value": "NE"
   }
 ]
